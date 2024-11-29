@@ -8,7 +8,7 @@
     ]
   },
   {
-    "fileName": "Map_PIEPs_Dissertação_Anderson.png",
+    "fileName": "Map_PIEPs_DissertaÃ§Ã£o_Anderson.png",
     "coordinates": "-8.4396, -42.1948",
     "caption": "123",
     "tags": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "fileName": "Map_PIEPs_Dissertação_Anderson.tiff",
+    "fileName": "Map_PIEPs_DissertaÃ§Ã£o_Anderson.tiff",
     "coordinates": "123",
     "caption": "123",
     "tags": [
@@ -28,7 +28,7 @@
     "coordinates": "qwe",
     "caption": "qweqwe",
     "tags": [
-      "anota��o"
+      "anotação"
     ]
   },
   {
@@ -45,6 +45,30 @@
     "caption": "Mapa",
     "tags": [
       "mapa"
+    ]
+  },
+  {
+    "fileName": "sorriso.png",
+    "coordinates": "12321321",
+    "caption": "legal",
+    "tags": [
+      "sorriso"
+    ]
+  },
+  {
+    "fileName": "tempo.jpeg",
+    "coordinates": "12321321",
+    "caption": "123",
+    "tags": [
+      "mapa"
+    ]
+  },
+  {
+    "fileName": "tip_plantas.jpg",
+    "coordinates": "-8.4396, -42.1948",
+    "caption": "asdasd",
+    "tags": [
+      "ideia"
     ]
   }
 ]
