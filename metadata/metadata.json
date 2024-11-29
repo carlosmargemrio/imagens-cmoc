@@ -8,7 +8,7 @@
     ]
   },
   {
-    "fileName": "Map_PIEPs_Dissertação_Anderson.png",
+    "fileName": "Map_PIEPs_DissertaÃ§Ã£o_Anderson.png",
     "coordinates": "-8.4396, -42.1948",
     "caption": "123",
     "tags": [
@@ -16,9 +16,33 @@
     ]
   },
   {
-    "fileName": "Map_PIEPs_Dissertação_Anderson.tiff",
+    "fileName": "Map_PIEPs_DissertaÃ§Ã£o_Anderson.tiff",
     "coordinates": "123",
     "caption": "123",
+    "tags": [
+      "mapa"
+    ]
+  },
+  {
+    "fileName": "aula_.jpeg",
+    "coordinates": "qwe",
+    "caption": "qweqwe",
+    "tags": [
+      "anotação"
+    ]
+  },
+  {
+    "fileName": "Carlos_na_praia2.jpg",
+    "coordinates": "123",
+    "caption": "brincadeira",
+    "tags": [
+      "Praia"
+    ]
+  },
+  {
+    "fileName": "ilha_do_fogo.jpg",
+    "coordinates": "12321321",
+    "caption": "Mapa",
     "tags": [
       "mapa"
     ]
