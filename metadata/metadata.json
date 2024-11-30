@@ -53,5 +53,25 @@
         ]
       }
     ]
+  },
+  "Penedo": {
+    "imagens": [
+      {
+        "nome": "DSCF3200.JPG",
+        "coordinates": [
+          -177.98774,
+          -0.07408
+        ],
+        "data": "2013-07-30",
+        "horario": "02:15",
+        "legenda": "Carlos registrando",
+        "autoria": "Desconhecida",
+        "tags": [
+          "Jumento",
+          "animal",
+          "camisa"
+        ]
+      }
+    ]
   }
 }
