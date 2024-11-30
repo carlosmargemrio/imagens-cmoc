@@ -8,7 +8,7 @@
         "horario": "10:00",
         "legenda": "Legenda da imagem",
         "autoria": "Autor",
-        "tags": []  // array vazio
+        "tags": []
       }
     ]
   },
@@ -21,7 +21,7 @@
         "horario": "12:00",
         "legenda": "Outra legenda",
         "autoria": "Autor",
-        "tags": []  // array vazio
+        "tags": []
       }
     ]
   },
@@ -37,7 +37,7 @@
         "horario": "00:31",
         "legenda": "Camiseta Rickzinho",
         "autoria": "Carlos Rocha",
-        "tags": []  // array vazio 
+        "tags": []
       },
       {
         "nome": "Rick03.jpg",
