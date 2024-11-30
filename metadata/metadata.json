@@ -65,7 +65,7 @@
         "legenda": "Foi um belo Dia",
         "autoria": "Vicente",
         "tags": [
-          "ComemoraÃ§Ã£o",
+          "ComemoraÃƒÂ§ÃƒÂ£o",
           "Rio de Janeiro"
         ]
       }
@@ -84,7 +84,25 @@
         "legenda": "asdasd",
         "autoria": "Jussara Lacerda",
         "tags": [
-          "Anotações"
+          "AnotaÃ§Ãµes"
+        ]
+      }
+    ]
+  },
+  "São Gonçalo ": {
+    "imagens": [
+      {
+        "nome": "TimePhoto_20201207_163653.jpg",
+        "coordinates": [
+          -175.31565,
+          8.82214
+        ],
+        "data": "2020-01-07",
+        "horario": "16:36",
+        "legenda": "Escavação",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Monitoramento"
         ]
       }
     ]
