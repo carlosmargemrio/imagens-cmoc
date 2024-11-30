@@ -16,8 +16,8 @@
       {
         "nome": "Rick03.jpg",
         "coordinates": [
-          23, 
-          201212, 
+          23,
+          201212,
           7992588
         ],
         "data": "2024-11-29",
@@ -48,6 +48,25 @@
           "Jumento",
           "animal",
           "camisa"
+        ]
+      }
+    ]
+  },
+  "Rio De Janeiro": {
+    "imagens": [
+      {
+        "nome": "IMG_20240921_160327.jpg",
+        "coordinates": [
+          -177.98556,
+          -0.08
+        ],
+        "data": "2024-11-30",
+        "horario": "03:07",
+        "legenda": "Foi um belo Dia",
+        "autoria": "Vicente",
+        "tags": [
+          "Comemoração",
+          "Rio de Janeiro"
         ]
       }
     ]
