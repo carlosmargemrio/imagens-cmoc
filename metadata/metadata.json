@@ -3,9 +3,7 @@
     "imagens": [
       {
         "nome": "image1.jpg",
-        "coordinates": [
-          0.123456,
-          0.654321
+        "coordinates": [ 23 K 201226 7992592
         ],
         "data": "2024-11-29",
         "horario": "10:00",
@@ -19,9 +17,7 @@
     "imagens": [
       {
         "nome": "image2.jpg",
-        "coordinates": [
-          0.234567,
-          0.765432
+        "coordinates": [ -41.401, -6.5577
         ],
         "data": "2024-11-30",
         "horario": "12:00",
@@ -47,10 +43,7 @@
       },
       {
         "nome": "Rick03.jpg",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
+        "coordinates": [],
         "data": "2024-11-29",
         "horario": "00:37",
         "legenda": "Camisa Rickzinho",
