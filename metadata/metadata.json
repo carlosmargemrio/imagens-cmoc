@@ -3,7 +3,10 @@
     "imagens": [
       {
         "nome": "image1.jpg",
-        "coordinates": [0.123456, 0.654321],
+        "coordinates": [
+          0.123456,
+          0.654321
+        ],
         "data": "2024-11-29",
         "horario": "10:00",
         "legenda": "Legenda da imagem",
@@ -16,12 +19,30 @@
     "imagens": [
       {
         "nome": "image2.jpg",
-        "coordinates": [0.234567, 0.765432],
+        "coordinates": [
+          0.234567,
+          0.765432
+        ],
         "data": "2024-11-30",
         "horario": "12:00",
         "legenda": "Outra legenda",
-         "autoria": "Autor",
+        "autoria": "Autor",
         "tags": ""
+      }
+    ]
+  },
+  "Richzinho": {
+    "imagens": [
+      {
+        "nome": "Rick01.jpg",
+        "coordinates": [
+          -177.98774,
+          -0.07408
+        ],
+        "data": "2024-11-29",
+        "horario": "00:31",
+        "legenda": "Camiseta Rickzinho",
+        "autoria": "Carlos Rocha"
       }
     ]
   }
