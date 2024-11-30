@@ -1,74 +1,18 @@
-{
-  "Richzinho": {
+[
+  {
+    "sitio": "Gentio do Ouro",
     "imagens": [
       {
-        "nome": "Rick01.jpg",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
-        "data": "2024-11-29",
-        "horario": "00:31",
-        "legenda": "Camiseta Rickzinho",
-        "autoria": "Carlos Rocha",
-        "tags": []
-      },
-      {
-        "nome": "Rick03.jpg",
-        "coordinates": [
-          23,
-          201212,
-          7992588
-        ],
-        "data": "2024-11-29",
-        "horario": "00:37",
-        "legenda": "Camisa Rickzinho",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
-      }
-    ]
-  },
-  "Penedo": {
-    "imagens": [
-      {
-        "nome": "DSCF3200.JPG",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
-        "data": "2013-07-30",
-        "horario": "02:15",
-        "legenda": "Carlos registrando",
-        "autoria": "Desconhecida",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
-      }
-    ]
-  },
-  "Rio De Janeiro": {
-    "imagens": [
-      {
-        "nome": "IMG_20240921_160327.jpg",
-        "coordinates": [
-          -177.98556,
-          -0.08
-        ],
+        "nome": "5.jpeg",
+        "coordinates": "23 K 201444 7992000",
         "data": "2024-11-30",
-        "horario": "03:07",
-        "legenda": "Foi um belo Dia",
-        "autoria": "Vicente",
+        "horario": "02:47",
+        "legenda": "qweqwe",
+        "autoria": "Jussara Lacerda",
         "tags": [
-          "Comemoração",
-          "Rio de Janeiro"
+          "Anotações"
         ]
       }
     ]
   }
-}
+]
