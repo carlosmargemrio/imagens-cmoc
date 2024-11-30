@@ -3,8 +3,7 @@
     "imagens": [
       {
         "nome": "image1.jpg",
-        "coordinates": [ 23 K 201226 7992592
-        ],
+        "coordenadas_utm": "23 K 201212 7992588",
         "data": "2024-11-29",
         "horario": "10:00",
         "legenda": "Legenda da imagem",
@@ -17,8 +16,7 @@
     "imagens": [
       {
         "nome": "image2.jpg",
-        "coordinates": [ -41.401, -6.5577
-        ],
+        "coordenadas_utm": "23 K 201212 7992588",
         "data": "2024-11-30",
         "horario": "12:00",
         "legenda": "Outra legenda",
