@@ -1,126 +1,28 @@
-[
-  {
-    "fileName": "Carlos_Rocha_3x4_.jpg",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "123",
-    "tags": [
-      "3x4"
+{
+  "SitioA": {
+    "imagens": [
+      {
+        "nome": "image1.jpg",
+        "coordinates": [0.123456, 0.654321],
+        "data": "2024-11-29",
+        "horario": "10:00",
+        "legenda": "Legenda da imagem",
+        "autoria": "Autor",
+        "tags": ""
+      }
     ]
   },
-  {
-    "fileName": "Map_PIEPs_DissertaÃƒÂ§ÃƒÂ£o_Anderson.png",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "123",
-    "tags": [
-      "mapa"
-    ]
-  },
-  {
-    "fileName": "Map_PIEPs_DissertaÃƒÂ§ÃƒÂ£o_Anderson.tiff",
-    "coordinates": "123",
-    "caption": "123",
-    "tags": [
-      "mapa"
-    ]
-  },
-  {
-    "fileName": "aula_.jpeg",
-    "coordinates": "qwe",
-    "caption": "qweqwe",
-    "tags": [
-      "anotaÃ§Ã£o"
-    ]
-  },
-  {
-    "fileName": "Carlos_na_praia2.jpg",
-    "coordinates": "123",
-    "caption": "brincadeira",
-    "tags": [
-      "Praia"
-    ]
-  },
-  {
-    "fileName": "ilha_do_fogo.jpg",
-    "coordinates": "12321321",
-    "caption": "Mapa",
-    "tags": [
-      "mapa"
-    ]
-  },
-  {
-    "fileName": "sorriso.png",
-    "coordinates": "12321321",
-    "caption": "legal",
-    "tags": [
-      "sorriso"
-    ]
-  },
-  {
-    "fileName": "tempo.jpeg",
-    "coordinates": "12321321",
-    "caption": "123",
-    "tags": [
-      "mapa"
-    ]
-  },
-  {
-    "fileName": "tip_plantas.jpg",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "asdasd",
-    "tags": [
-      "ideia"
-    ]
-  },
-  {
-    "fileName": "IMG_20240921_160327.jpg",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "ideia",
-    "tags": [
-      "ideia"
-    ]
-  },
-  {
-    "fileName": "infinito.jpg",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "Imagem gerada por alguma forma de vida existente! ",
-    "tags": [
-      "Geração",
-      "Virtual"
-    ]
-  },
-  {
-    "fileName": "OIP.jfif",
-    "coordinates": "123",
-    "caption": "qweqweqwe",
-    "tags": [
-      ""
-    ]
-  },
-  {
-    "fileName": "tempo.png",
-    "coordinates": "2332133123123123",
-    "caption": "123123123",
-    "tags": [
-      "Jumento",
-      "animal"
-    ]
-  },
-  {
-    "fileName": "Brucce02.jpg",
-    "coordinates": "23 K 201226 7992592",
-    "caption": "123123",
-    "tags": [
-      "Jumento",
-      "animal"
-    ]
-  },
-  {
-    "fileName": "Guarani01.jpg",
-    "coordinates": "-8.4396, -42.1948",
-    "caption": "31223123123",
-    "tags": [
-      "Jumento",
-      "animal"
+  "SitioB": {
+    "imagens": [
+      {
+        "nome": "image2.jpg",
+        "coordinates": [0.234567, 0.765432],
+        "data": "2024-11-30",
+        "horario": "12:00",
+        "legenda": "Outra legenda",
+         "autoria": "Autor",
+        "tags": ""
+      }
     ]
   }
-]
+}
