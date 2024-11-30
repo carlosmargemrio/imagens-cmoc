@@ -43,6 +43,22 @@
         "horario": "00:31",
         "legenda": "Camiseta Rickzinho",
         "autoria": "Carlos Rocha"
+      },
+      {
+        "nome": "Rick03.jpg",
+        "coordinates": [
+          -177.98774,
+          -0.07408
+        ],
+        "data": "2024-11-29",
+        "horario": "00:37",
+        "legenda": "Camisa Rickzinho",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Jumento",
+          "animal",
+          "camisa"
+        ]
       }
     ]
   }
