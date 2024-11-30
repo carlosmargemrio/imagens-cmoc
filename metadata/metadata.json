@@ -78,5 +78,31 @@
     "tags": [
       "ideia"
     ]
+  },
+  {
+    "fileName": "infinito.jpg",
+    "coordinates": "-8.4396, -42.1948",
+    "caption": "Imagem gerada por alguma forma de vida existente! ",
+    "tags": [
+      "Geração",
+      "Virtual"
+    ]
+  },
+  {
+    "fileName": "OIP.jfif",
+    "coordinates": "123",
+    "caption": "qweqweqwe",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "fileName": "tempo.png",
+    "coordinates": "2332133123123123",
+    "caption": "123123123",
+    "tags": [
+      "Jumento",
+      "animal"
+    ]
   }
 ]
