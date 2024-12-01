@@ -107,19 +107,6 @@
       }
     ]
   },
-  "Qrteste": {
-    "imagens": [
-      {
-        "nome": "QRgeo..jpeg",
-        "coordenadas_utm": "23 K 201444 7992000",
-        "data": "2024-12-01",
-        "horario": "07:52",
-        "legenda": "assddasdasd",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
-      },
       {
         "nome": "qr_endereÃ§o_Carlos_Rocha.jpeg",
         "coordinates": [
