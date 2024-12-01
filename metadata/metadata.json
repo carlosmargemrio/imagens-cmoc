@@ -281,5 +281,20 @@
         ]
       }
     ]
+  },
+  "fiscalização jazida são lourenço do piauí": {
+    "imagens": [
+      {
+        "nome": "Sobradinho I (3) - Copia.png",
+        "coordinates": null,
+        "data": "2024-12-01",
+        "horario": "13:19",
+        "legenda": "Lorem",
+        "autoria": "Jussara Lacerda",
+        "tags": [
+          "testando"
+        ]
+      }
+    ]
   }
 }
