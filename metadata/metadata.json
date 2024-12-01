@@ -65,7 +65,7 @@
         "legenda": "Foi um belo Dia",
         "autoria": "Vicente",
         "tags": [
-          "ComemoraÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o",
+          "Comemoração",
           "Rio de Janeiro"
         ]
       }
@@ -84,12 +84,12 @@
         "legenda": "asdasd",
         "autoria": "Jussara Lacerda",
         "tags": [
-          "AnotaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Âµes"
+          "Anotação"
         ]
       }
     ]
   },
-  "SÃƒÂ£o GonÃƒÂ§alo ": {
+  "São Gonçalo do Gurgueia": {
     "imagens": [
       {
         "nome": "TimePhoto_20201207_163653.jpg",
@@ -99,7 +99,7 @@
         ],
         "data": "2020-01-07",
         "horario": "16:36",
-        "legenda": "EscavaÃƒÂ§ÃƒÂ£o",
+        "legenda": "EscavaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
         "autoria": "Carlos Rocha",
         "tags": [
           "Monitoramento"
@@ -117,11 +117,11 @@
         "legenda": "assddasdasd",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃ³digo"
+          "Código"
         ]
       },
       {
-        "nome": "qr_endereço_Carlos_Rocha.jpeg",
+        "nome": "qr_endereÃ§o_Carlos_Rocha.jpeg",
         "coordinates": [
           -8.4396,
           -42.1948
@@ -135,7 +135,7 @@
         ]
       },
       {
-        "nome": "qr_endere�o_nEGR�LIA.jpeg",
+        "nome": "qr_endereço_nEGRÁLIA.jpeg",
         "coordinates": [
           -8.4396,
           -42.1948
@@ -145,7 +145,7 @@
         "legenda": "123123",
         "autoria": "Carlos Rocha",
         "tags": [
-          "C�digo"
+          "Código"
         ]
       },
       {
@@ -156,7 +156,7 @@
         "legenda": "1234123412341234",
         "autoria": "Carlos Rocha",
         "tags": [
-          "C�digo"
+          "Código"
         ]
       }
     ]
