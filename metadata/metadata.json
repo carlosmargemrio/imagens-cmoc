@@ -106,20 +106,7 @@
         ]
       }
     ]
-  },
-      {
-        "nome": "qr_endereÃ§o_Carlos_Rocha.jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-02",
-        "horario": "07:54",
-        "legenda": "qweqweqwe",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
+  
       },      
       {
         "nome": "QRgeoIPHANSRN.jpeg",
@@ -132,6 +119,7 @@
           "Código"
         ]
       }
+    ]
     
   }
 
