@@ -160,5 +160,38 @@
         ]
       }
     ]
+  },
+  "cadeira": {
+    "imagens": [
+      {
+        "nome": "WhatsApp Image 2023-10-08 at 11.03.21.jpeg",
+        "coordinates": [
+          -8.4752,
+          -42.8044
+        ],
+        "data": "2024-12-01",
+        "horario": "11:01",
+        "legenda": "Cadeira 1",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "Código"
+        ]
+      }
+    ]
+  },
+  "Cadeira": {
+    "imagens": [
+      {
+        "nome": "WhatsApp Image 2023-10-08 at 11.03.25.jpeg",
+        "coordenadas_utm": "23 K 201212 7992588",
+        "data": "2024-12-01",
+        "horario": "11:02",
+        "legenda": "cadeira2",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "cadeira"
+        ]
+      }
+    ]
   }
 }
