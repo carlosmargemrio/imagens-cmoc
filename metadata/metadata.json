@@ -1,115 +1,167 @@
 {
-  "Richzinho": {
-    "imagens": [
-      {
-        "nome": "Rick01.jpg",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
-        "data": "2024-11-29",
-        "horario": "00:31",
-        "legenda": "Camiseta Rickzinho",
-        "autoria": "Carlos Rocha",
-        "tags": []
-      },
-      {
-        "nome": "Rick03.jpg",
-        "coordinates": [
-          23,
-          201212,
-          7992588
-        ],
-        "data": "2024-11-29",
-        "horario": "00:37",
-        "legenda": "Camisa Rickzinho",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
-      }
-    ]
-  },
-  "Penedo": {
-    "imagens": [
-      {
-        "nome": "DSCF3200.JPG",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
-        "data": "2013-07-30",
-        "horario": "02:15",
-        "legenda": "Carlos registrando",
-        "autoria": "Desconhecida",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
-      }
-    ]
-  },
-  "Rio De Janeiro": {
-    "imagens": [
-      {
-        "nome": "IMG_20240921_160327.jpg",
-        "coordinates": [
-          -177.98556,
-          -0.08
-        ],
-        "data": "2024-11-30",
-        "horario": "03:07",
-        "legenda": "Foi um belo Dia",
-        "autoria": "Vicente",
-        "tags": [
-          "ComemoraÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
-          "Rio de Janeiro"
-        ]
-      }
-    ]
-  },
-  "Gentio do Ouro": {
-    "imagens": [
-      {
-        "nome": "cccc.jpg",
-        "coordinates": [
-          -177.98556,
-          -0.08
-        ],
-        "data": "2024-11-30",
-        "horario": "03:06",
-        "legenda": "asdasd",
-        "autoria": "Jussara Lacerda",
-        "tags": [
-          "AnotaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o"
-        ]
-      }
-    ]
-  },
-  "SÃƒÆ’Ã‚Â£o GonÃƒÆ’Ã‚Â§alo do Gurgueia": {
-    "imagens": [
-      {
-        "nome": "TimePhoto_20201207_163653.jpg",
-        "coordinates": [
-          -175.31565,
-          8.82214
-        ],
-        "data": "2020-01-07",
-        "horario": "16:36",
-        "legenda": "EscavaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Monitoramento"
-        ]
-      }
-    ]
-  },
-  "Qrteste": {
-    "imagens": [
-      {
+    "Richzinho": {
+      "imagens": [
+        {
+          "nome": "Rick01.jpg",
+          "coordinates": [
+            -177.98774,
+            -0.07408
+          ],
+          "data": "2024-11-29",
+          "horario": "00:31",
+          "legenda": "Camiseta Rickzinho",
+          "autoria": "Carlos Rocha",
+          "tags": []
+        },
+        {
+          "nome": "Rick03.jpg",
+          "coordinates": [
+            23,
+            201212,
+            7992588
+          ],
+          "data": "2024-11-29",
+          "horario": "00:37",
+          "legenda": "Camisa Rickzinho",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "Jumento",
+            "animal",
+            "camisa"
+          ]
+        }
+      ]
+    },
+    "Penedo": {
+      "imagens": [
+        {
+          "nome": "DSCF3200.JPG",
+          "coordinates": [
+            -177.98774,
+            -0.07408
+          ],
+          "data": "2013-07-30",
+          "horario": "02:15",
+          "legenda": "Carlos registrando",
+          "autoria": "Desconhecida",
+          "tags": [
+            "Jumento",
+            "animal",
+            "camisa"
+          ]
+        }
+      ]
+    
+    },
+    "Gentio do Ouro": {
+      "imagens": [
+        {
+          "nome": "cccc.jpg",
+          "coordinates": [
+            -177.98556,
+            -0.08
+          ],
+          "data": "2024-11-30",
+          "horario": "03:06",
+          "legenda": "asdasd",
+          "autoria": "Jussara Lacerda",
+          "tags": [
+            "AnotaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o"
+          ]
+        }
+      ]
+    },
+    "SÃƒÆ’Ã‚Â£o GonÃƒÆ’Ã‚Â§alo do Gurgueia": {
+      "imagens": [
+        {
+          "nome": "TimePhoto_20201207_163653.jpg",
+          "coordinates": [
+            -175.31565,
+            8.82214
+          ],
+          "data": "2020-01-07",
+          "horario": "16:36",
+          "legenda": "EscavaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "Monitoramento"
+          ]
+        }
+      ]
+    },
+    
+    "cadeira": {
+      "imagens": [
+        {
+          "nome": "WhatsApp Image 2023-10-08 at 11.03.21.jpeg",
+          "coordinates": [
+            -8.4752,
+            -42.8044
+          ],
+          "data": "2024-12-01",
+          "horario": "11:01",
+          "legenda": "Cadeira 1",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "Cadeira"
+          ]
+        },
+        {
+            "nome": "WhatsApp Image 2023-10-08 at 11.03.25.jpeg",
+            "coordenadas_utm": "23 K 201212 7992588",
+            "data": "2024-12-01",
+            "horario": "11:02",
+            "legenda": "cadeira2",
+            "autoria": "Carlos Rocha",
+            "tags": [
+              "cadeira"
+            ]
+          },
+        {
+          "nome": "3 (2).jpeg",
+          "coordenadas_utm": "23 K 201212 7992588",
+          "data": "2024-12-01",
+          "horario": "12:03",
+          "legenda": "Cadeira",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "cadeira"
+          ]
+        }
+      ]
+    },
+
+    "qrteste": {
+      "imagens": [
+        {
+          "nome": "4(33).jpeg",
+          "coordinates": [
+            -8.4396,
+            -42.1948
+          ],
+          "data": "2024-12-01",
+          "horario": "12:06",
+          "legenda": "q e nÃ£o Q",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "CÃ³digo"
+          ]
+        },
+        {
+          "nome": "Graf_sugest_Mar.jpeg",
+          "coordinates": [
+            -8.4396,
+            -42.1948
+          ],
+          "data": "2024-12-01",
+          "horario": "12:17",
+          "legenda": "Qrteste",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "Código"
+          ]
+        },
+    {
         "nome": "QRgeo..jpeg",
         "coordenadas_utm": "23 K 201444 7992000",
         "data": "2024-12-01",
@@ -156,128 +208,69 @@
         "legenda": "1234123412341234",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃƒÆ’Ã‚Â³digo"
-        ]
-      }
-    ]
-  },
-  "cadeira": {
-    "imagens": [
-      {
-        "nome": "WhatsApp Image 2023-10-08 at 11.03.21.jpeg",
-        "coordinates": [
-          -8.4752,
-          -42.8044
-        ],
-        "data": "2024-12-01",
-        "horario": "11:01",
-        "legenda": "Cadeira 1",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "CÃƒÂ³digo"
-        ]
-      },
-      {
-        "nome": "3 (2).jpeg",
-        "coordenadas_utm": "23 K 201212 7992588",
-        "data": "2024-12-01",
-        "horario": "12:03",
-        "legenda": "Cadeira",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "cadeira"
-        ]
-      }
-    ]
-  },
-  "Cadeira": {
-    "imagens": [
-      {
-        "nome": "WhatsApp Image 2023-10-08 at 11.03.25.jpeg",
-        "coordenadas_utm": "23 K 201212 7992588",
-        "data": "2024-12-01",
-        "horario": "11:02",
-        "legenda": "cadeira2",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "cadeira"
-        ]
-      }
-    ]
-  },
-  "qrteste": {
-    "imagens": [
-      {
-        "nome": "4(33).jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "12:06",
-        "legenda": "q e nÃ£o Q",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "CÃ³digo"
-        ]
-      },
-      {
-        "nome": "Graf_sugest_Mar.jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "12:17",
-        "legenda": "Qrteste",
-        "autoria": "Carlos Rocha",
-        "tags": [
           "Código"
         ]
       }
     ]
   },
-  "rio de janeiro": {
-    "imagens": [
-      {
-        "nome": "desenhos.jfif",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "12:21",
-        "legenda": "rio de janeiro",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "testando"
-        ]
-      },
-      {
-        "nome": "Carlos_na_praia2_.jpg",
-        "coordenadas_utm": "23 K 201444 7992000",
-        "data": "2024-12-01",
-        "horario": "12:23",
-        "legenda": "rio de janeiro",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "testando"
-        ]
-      },
-      {
-        "nome": "Carlos_Rocha_3x4_.jpg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "12:25",
-        "legenda": "Rio De Janeiro",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "testando"
-        ]
-      }
-    ]
+    "rio de janeiro": {
+      "imagens": [
+        {
+          "nome": "desenhos.jfif",
+          "coordinates": [
+            -8.4396,
+            -42.1948
+          ],
+          "data": "2024-12-01",
+          "horario": "12:21",
+          "legenda": "rio de janeiro",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "testando"
+          ]
+        },
+        
+        {
+          "nome": "IMG_20240921_160327.jpg",
+          "coordinates": [
+            -177.98556,
+            -0.08
+          ],
+          "data": "2024-11-30",
+          "horario": "03:07",
+          "legenda": "Foi um belo Dia",
+          "autoria": "Vicente",
+          "tags": [
+            "ComemoraÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
+            "Rio de Janeiro"
+          ]
+        },
+     
+        {
+          "nome": "Carlos_na_praia2_.jpg",
+          "coordenadas_utm": "23 K 201444 7992000",
+          "data": "2024-12-01",
+          "horario": "12:23",
+          "legenda": "rio de janeiro",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "testando"
+          ]
+        },
+        {
+          "nome": "Carlos_Rocha_3x4_.jpg",
+          "coordinates": [
+            -8.4396,
+            -42.1948
+          ],
+          "data": "2024-12-01",
+          "horario": "12:25",
+          "legenda": "Rio De Janeiro",
+          "autoria": "Carlos Rocha",
+          "tags": [
+            "testando"
+          ]
+        }
+      ]
+    }
   }
-}
