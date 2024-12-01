@@ -263,6 +263,20 @@
         "tags": [
           "testando"
         ]
+      },
+      {
+        "nome": "Carlos_Rocha_3x4_.jpg",
+        "coordinates": [
+          -8.4396,
+          -42.1948
+        ],
+        "data": "2024-12-01",
+        "horario": "12:25",
+        "legenda": "Rio De Janeiro",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ]
       }
     ]
   }
