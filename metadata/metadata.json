@@ -252,6 +252,17 @@
         "tags": [
           "testando"
         ]
+      },
+      {
+        "nome": "Carlos_na_praia2_.jpg",
+        "coordenadas_utm": "23 K 201444 7992000",
+        "data": "2024-12-01",
+        "horario": "12:23",
+        "legenda": "rio de janeiro",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
+        ]
       }
     ]
   }
