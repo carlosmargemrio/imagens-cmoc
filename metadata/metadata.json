@@ -121,20 +121,7 @@
           "Código"
         ]
       },
-      {
-        "nome": "qr_endereço_nEGRÁLIA.jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "10:11",
-        "legenda": "123123",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
-      },
+      
       {
         "nome": "QRgeoIPHANSRN.jpeg",
         "coordenadas_utm": "23 K 201212 7992588",
