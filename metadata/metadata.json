@@ -65,7 +65,7 @@
         "legenda": "Foi um belo Dia",
         "autoria": "Vicente",
         "tags": [
-          "ComemoraÃƒÂ§ÃƒÂ£o",
+          "ComemoraÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
           "Rio de Janeiro"
         ]
       }
@@ -84,12 +84,12 @@
         "legenda": "asdasd",
         "autoria": "Jussara Lacerda",
         "tags": [
-          "AnotaÃƒÂ§ÃƒÂ£o"
+          "AnotaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o"
         ]
       }
     ]
   },
-  "SÃƒÂ£o GonÃƒÂ§alo do Gurgueia": {
+  "SÃƒÆ’Ã‚Â£o GonÃƒÆ’Ã‚Â§alo do Gurgueia": {
     "imagens": [
       {
         "nome": "TimePhoto_20201207_163653.jpg",
@@ -99,7 +99,7 @@
         ],
         "data": "2020-01-07",
         "horario": "16:36",
-        "legenda": "EscavaÃƒÂ§ÃƒÂ£o",
+        "legenda": "EscavaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
         "autoria": "Carlos Rocha",
         "tags": [
           "Monitoramento"
@@ -117,11 +117,11 @@
         "legenda": "assddasdasd",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃƒÂ³digo"
+          "CÃƒÆ’Ã‚Â³digo"
         ]
       },
       {
-        "nome": "qr_endereÃƒÆ’Ã‚Â§o_Carlos_Rocha.jpeg",
+        "nome": "qr_endereÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â§o_Carlos_Rocha.jpeg",
         "coordinates": [
           -8.4396,
           -42.1948
@@ -131,11 +131,11 @@
         "legenda": "qweqweqwe",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃƒÂ³digo"
+          "CÃƒÆ’Ã‚Â³digo"
         ]
       },
       {
-        "nome": "qr_endereÃƒÂ§o_nEGRÃƒÂLIA.jpeg",
+        "nome": "qr_endereÃƒÆ’Ã‚Â§o_nEGRÃƒÆ’Ã‚ÂLIA.jpeg",
         "coordinates": [
           -8.4396,
           -42.1948
@@ -145,7 +145,7 @@
         "legenda": "123123",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃƒÂ³digo"
+          "CÃƒÆ’Ã‚Â³digo"
         ]
       },
       {
@@ -156,7 +156,7 @@
         "legenda": "1234123412341234",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃƒÂ³digo"
+          "CÃƒÆ’Ã‚Â³digo"
         ]
       }
     ]
@@ -174,7 +174,7 @@
         "legenda": "Cadeira 1",
         "autoria": "Carlos Rocha",
         "tags": [
-          "CÃ³digo"
+          "CÃƒÂ³digo"
         ]
       },
       {
@@ -215,10 +215,10 @@
         ],
         "data": "2024-12-01",
         "horario": "12:06",
-        "legenda": "q e não Q",
+        "legenda": "q e nÃ£o Q",
         "autoria": "Carlos Rocha",
         "tags": [
-          "Código"
+          "CÃ³digo"
         ]
       },
       {
@@ -232,7 +232,25 @@
         "legenda": "Qrteste",
         "autoria": "Carlos Rocha",
         "tags": [
-          "C�digo"
+          "Código"
+        ]
+      }
+    ]
+  },
+  "rio de janeiro": {
+    "imagens": [
+      {
+        "nome": "desenhos.jfif",
+        "coordinates": [
+          -8.4396,
+          -42.1948
+        ],
+        "data": "2024-12-01",
+        "horario": "12:21",
+        "legenda": "rio de janeiro",
+        "autoria": "Carlos Rocha",
+        "tags": [
+          "testando"
         ]
       }
     ]
