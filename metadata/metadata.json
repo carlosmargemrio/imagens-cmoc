@@ -3,10 +3,7 @@
     "imagens": [
       {
         "nome": "Rick01.jpg",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
+        "coordinates": [-177.98774, -0.07408],
         "data": "2024-11-29",
         "horario": "00:31",
         "legenda": "Camiseta Rickzinho",
@@ -15,20 +12,12 @@
       },
       {
         "nome": "Rick03.jpg",
-        "coordinates": [
-          23,
-          201212,
-          7992588
-        ],
+        "coordenadas_utm": "23 K 201212 7992588",
         "data": "2024-11-29",
         "horario": "00:37",
         "legenda": "Camisa Rickzinho",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
+        "tags": ["Jumento", "animal", "camisa"]
       }
     ]
   },
@@ -36,19 +25,12 @@
     "imagens": [
       {
         "nome": "DSCF3200.JPG",
-        "coordinates": [
-          -177.98774,
-          -0.07408
-        ],
+        "coordinates": [-177.98774, -0.07408],
         "data": "2013-07-30",
         "horario": "02:15",
         "legenda": "Carlos registrando",
         "autoria": "Desconhecida",
-        "tags": [
-          "Jumento",
-          "animal",
-          "camisa"
-        ]
+        "tags": ["Jumento", "animal", "camisa"]
       }
     ]
   },
@@ -56,18 +38,12 @@
     "imagens": [
       {
         "nome": "IMG_20240921_160327.jpg",
-        "coordinates": [
-          -177.98556,
-          -0.08
-        ],
+        "coordinates": [-177.98556, -0.08],
         "data": "2024-11-30",
         "horario": "03:07",
         "legenda": "Foi um belo Dia",
         "autoria": "Vicente",
-        "tags": [
-          "Comemoração",
-          "Rio de Janeiro"
-        ]
+        "tags": ["Comemoração", "Rio de Janeiro"]
       }
     ]
   },
@@ -75,17 +51,12 @@
     "imagens": [
       {
         "nome": "cccc.jpg",
-        "coordinates": [
-          -177.98556,
-          -0.08
-        ],
+        "coordinates": [-177.98556, -0.08],
         "data": "2024-11-30",
         "horario": "03:06",
         "legenda": "asdasd",
         "autoria": "Jussara Lacerda",
-        "tags": [
-          "Anotação"
-        ]
+        "tags": ["Anotação"]
       }
     ]
   },
@@ -93,60 +64,12 @@
     "imagens": [
       {
         "nome": "TimePhoto_20201207_163653.jpg",
-        "coordinates": [
-          -175.31565,
-          8.82214
-        ],
+        "coordinates": [-175.31565, 8.82214],
         "data": "2020-01-07",
         "horario": "16:36",
-        "legenda": "EscavaÃƒÆ’Ã‚Â§ÃƒÆ’Ã‚Â£o",
+        "legenda": "Escavação",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "Monitoramento"
-        ]
-      }
-    ]
-  },
-  "Qrteste": {
-    "imagens": [
-      {
-        "nome": "QRgeo..jpeg",
-        "coordenadas_utm": "23 K 201444 7992000",
-        "data": "2024-12-01",
-        "horario": "07:52",
-        "legenda": "assddasdasd",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
-      },
-      {
-        "nome": "qr_endereÃ§o_Carlos_Rocha.jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-02",
-        "horario": "07:54",
-        "legenda": "qweqweqwe",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
-      },
-      {
-        "nome": "qr_endereço_nEGRÁLIA.jpeg",
-        "coordinates": [
-          -8.4396,
-          -42.1948
-        ],
-        "data": "2024-12-01",
-        "horario": "10:11",
-        "legenda": "123123",
-        "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
+        "tags": ["Monitoramento"]
       },
       {
         "nome": "QRgeoIPHANSRN.jpeg",
@@ -155,9 +78,7 @@
         "horario": "10:11",
         "legenda": "1234123412341234",
         "autoria": "Carlos Rocha",
-        "tags": [
-          "Código"
-        ]
+        "tags": ["Código"]
       }
     ]
   }
