@@ -1,1 +1,18 @@
-
+{
+  "origem": "controle_imagens_planilha_web",
+  "gerado_em": "2025-12-09T01:07:22.339Z",
+  "imagens": [
+    {
+      "nome": "TimePhoto_20250922_092016",
+      "arquivo": "TimePhoto_20250922_092016.jpg",
+      "caminho": "IMGS/TimePhoto_20250922_092016.jpg",
+      "latlon": "-6.502273, -49.703776",
+      "utm": "22M 643328 9281089",
+      "data": "22/09/2025",
+      "horario": "09:20",
+      "legenda": "Fragmento",
+      "hash_md5": "83036ff924cbdaa764df917e1707f3da",
+      "hash_sha256": "ccd85eeb20157dd8c67a7ef8a492a39462fa3cc759b9a6ac331643d7be70b304"
+    }
+  ]
+}
