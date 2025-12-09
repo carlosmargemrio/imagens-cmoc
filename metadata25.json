@@ -1,6 +1,6 @@
 {
   "origem": "controle_imagens_planilha_web",
-  "gerado_em": "2025-12-09T02:37:55.944Z",
+  "gerado_em": "2025-12-09T02:53:55.029Z",
   "imagens": [
     {
       "nome": "TimePhoto_20250922_092016",
@@ -205,6 +205,18 @@
       "legenda": "",
       "hash_md5": "60370754be122a4e32424947be4fc17b",
       "hash_sha256": "3d54092d6376c1f266a80ecadb1469efc2b8eb37c7702211fb2519b9a52f5381"
+    },
+    {
+      "nome": "IMG_(212)",
+      "arquivo": "IMG_(212).jpg",
+      "caminho": "IMGS/IMG_(212).jpg",
+      "latlon": "-18.136295, -47.824560",
+      "utm": "23K 201117 7992441",
+      "data": "25/11/2024",
+      "horario": "14:47",
+      "legenda": "",
+      "hash_md5": "3b3b7b8f9a321649757cbabb728bd636",
+      "hash_sha256": "906ef9e37f7fbf0bbbfc321191adefe1cee326b1763ab51c2ea64bb29048ce18"
     }
   ]
 }
