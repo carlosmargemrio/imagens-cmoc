@@ -1,6 +1,6 @@
 {
   "origem": "controle_imagens_planilha_web",
-  "gerado_em": "2026-03-02T19:40:47.205Z",
+  "gerado_em": "2026-03-02T19:42:35.831Z",
   "imagens": [
     {
       "nome": "TimePhoto_20250922_092016",
@@ -111,9 +111,9 @@
       "origem_coordenadas": "MANUAL"
     },
     {
-      "nome": "SA_BOQUERÃO_03(XX)",
-      "arquivo": "SA_BOQUERAO_03(XX).jpg",
-      "caminho": "IMGS/SA_BOQUERAO_03(XX).jpg",
+      "nome": "SA_BOQUERÃO_03(XY)EDITRENMANUAL",
+      "arquivo": "SA_BOQUERAO_03(XY)EDITRENMANUAL.jpg",
+      "caminho": "IMGS/SA_BOQUERAO_03(XY)EDITRENMANUAL.jpg",
       "latlon": "-6.505439, -49.704189",
       "utm": "22L 643281 9280739",
       "coordinates": [
