@@ -1,6 +1,6 @@
 {
   "origem": "controle_imagens_planilha_web",
-  "gerado_em": "2026-03-02T19:42:35.831Z",
+  "gerado_em": "2026-03-03T00:45:07.241Z",
   "imagens": [
     {
       "nome": "TimePhoto_20250922_092016",
@@ -132,6 +132,31 @@
       "legenda": "",
       "hash_md5": "ed7fe9f1b769f41cae139c247b53b59e",
       "hash_sha256": "ffb2bbfbc550fda0ad105204ca19580bd6961276a93ba7c9353db8ae9f8619f5",
+      "origem_coordenadas": "MANUAL"
+    },
+    {
+      "nome": "SA_BOQUEIRÃO_04(22)",
+      "nome_original": "20251128_094153.jpg",
+      "arquivo": "SA_BOQUEIRÃO_04(22).jpg",
+      "caminho": "IMGS/SA_BOQUEIRÃO_04(22).jpg",
+      "latlon": "-6.504612, -49.703840",
+      "utm": "22M 643320 9280830",
+      "coordinates": [
+        -49.70384,
+        -6.504612
+      ],
+      "utm_obj": {
+        "zone": 22,
+        "band": "M",
+        "easting": 643319.8563371989,
+        "northing": 9280830.329936469,
+        "hemisphere": "S"
+      },
+      "data": "28/11/2025",
+      "horario": "09:41",
+      "legenda": "Detalhe da profundidade atingida na tradagem empregada na delimitação subsuperficial do sítio",
+      "hash_md5": "bac7a6f121bc35b0f096e39b1b8593a4",
+      "hash_sha256": "7a0d2f85a101024bb4c69ad5788ab0535165e5ae7a0d639c56554b897348729f",
       "origem_coordenadas": "MANUAL"
     }
   ]
